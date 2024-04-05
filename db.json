@@ -5,7 +5,6 @@
     "category": "Natural Language Processing",
     "description": "A state-of-the-art language model developed by OpenAI.",
     "provider": "OpenAI",
-    "codeSnippet": "const gpt3 = new GPT3();",
     "useCases": ["Text generation", "Language translation"]
   },
   {
@@ -14,7 +13,6 @@
     "category": "Natural Language Processing",
     "description": "A transformer-based language representation model developed by Google.",
     "provider": "Google",
-    "codeSnippet": "const bert = new BERT();",
     "useCases": ["Sentiment analysis", "Question answering"]
   },
   {
@@ -23,7 +21,6 @@
     "category": "Computer Vision",
     "description": "A deep convolutional neural network for image recognition.",
     "provider": "Microsoft Research",
-    "codeSnippet": "const resnet = new ResNet();",
     "useCases": ["Image classification", "Object detection"]
   },
   {
@@ -32,7 +29,6 @@
     "category": "Speech Recognition",
     "description": "An open-source speech-to-text engine developed by Mozilla.",
     "provider": "Mozilla",
-    "codeSnippet": "const deepSpeech = new DeepSpeech();",
     "useCases": ["Speech transcription", "Voice-controlled interfaces"]
   },
   {
@@ -41,7 +37,6 @@
     "category": "Reinforcement Learning",
     "description": "A computer program developed by DeepMind to play the board game Go.",
     "provider": "DeepMind",
-    "codeSnippet": "const alphaGo = new AlphaGo();",
     "useCases": ["Game playing", "Optimization"]
   },
   {
