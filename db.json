@@ -1,20 +1,14 @@
-[
-    {
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "year": 1925,
-        "genre": "Fiction"
-    },
-    {
-        "title": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "year": 1960,
-        "genre": "Fiction"
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": 1949,
-        "genre": "Dystopian Fiction"
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
