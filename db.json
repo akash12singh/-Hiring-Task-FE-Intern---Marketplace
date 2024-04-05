@@ -4,8 +4,7 @@
     "name": "GPT-3",
     "category": "Natural Language Processing",
     "description": "A state-of-the-art language model developed by OpenAI.",
-    "provider": "OpenAI",
-    
+    "provider": "OpenAI"    
   },
   {
     "id": 2,
