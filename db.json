@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "name": "GPT-3",
@@ -152,4 +152,4 @@
     "codeSnippet": "const uNet = new UNet();",
     "useCases": ["Medical image segmentation", "Biomedical image analysis"]
   }
-]
+}
