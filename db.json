@@ -5,7 +5,7 @@
     "category": "Natural Language Processing",
     "description": "A state-of-the-art language model developed by OpenAI.",
     "provider": "OpenAI",
-    "useCases": ["Text generation", "Language translation"]
+    
   },
   {
     "id": 2,
