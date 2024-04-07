@@ -1,8 +1,11 @@
 {
-  {
-    "id": 1,
-    "name": "GPT-3",
-    "category": "Natural Language Processing",
-    "provider": "OpenAI"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
