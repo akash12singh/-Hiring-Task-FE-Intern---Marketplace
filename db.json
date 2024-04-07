@@ -1,20 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 2,
+   "id": 2,
     "name": "BERT",
     "category": "Natural Language Processing",
     "description": "A transformer-based language representation model developed by Google.",
     "provider": "Google",
     "useCases": ["Sentiment analysis", "Question answering"]
-    }
-  ],
-  "profile": {
-    "id": 2,
-    "name": "BERT",
-    "category": "Natural Language Processing",
-    "description": "A transformer-based language representation model developed by Google.",
-    "provider": "Google",
-    "useCases": ["Sentiment analysis", "Question answering"]
-  }
 }
