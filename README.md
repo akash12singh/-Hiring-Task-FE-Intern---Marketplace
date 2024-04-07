@@ -4,7 +4,7 @@ This project is a showcase application for exploring various AI models deployed 
 
 ## Technologies Used
 
-  -Frontend: React.js
+  -Frontend: React.js     and      
   -API: JSON Placeholder (for  data)
 
 ## Features
