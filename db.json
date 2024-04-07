@@ -4,7 +4,7 @@
     "id": 1,
     "name": "GPT-3",
     "category": "Natural Language Processing",
-    "description": "A state-of-the-art language model developed by OpenAI. GPT-3 (Generative Pre-trained Transformer 3) is a state-of-the-art language model developed by OpenAI. making it one of the most advanced natural language processing models to date.",
+    "description": "A state-of-the-art language model developed by OpenAI.",
     "provider": "OpenAI",
     "Link": "https://openai.com/product",
     "useCases": ["Text generation", "Language translation"]
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "BERT",
     "category": "Natural Language Processing",
-    "description": "A transformer-based language representation model developed by Google. BERT (Bidirectional Encoder Representations from Transformers) is a language model developed by Google.  BERT is ",
+    "description": "A transformer-based language representation model developed by Google.",
     "provider": "Google",
     "Link": "https://github.com/google-research/bert",
     "useCases": ["Sentiment analysis", "Question answering"]
@@ -22,7 +22,7 @@
     "id": 3,
     "name": "ResNet",
     "category": "Computer Vision",
-    "description": "A deep convolutional neural network for image recognition.ResNet, short for Residual Network, is a deep convolutional neural network architecture developed by researchers at Microsoft Research. It's notable for introducing skip connections, which help address the vanishing gradient problem in very deep networks. ResNet has been highly successful in image classification tasks, winning the ImageNet Large Scale Visual Recognition Challenge in 2015. It's widely used as a backbone architecture in various computer vision applications, including object detection, image segmentation, and image recognition.",
+    "description": "A deep convolutional neural network for image recognition.ResNet, short for Residual Network, is a deep convolutional neural network architecture developed by researchers at Microsoft Research.",
     "provider": "Microsoft Research",
     "Link": "https://arxiv.org/abs/1512.03385",
     "useCases": ["Image classification", "Object detection"]
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "AlphaGo",
     "category": "Reinforcement Learning",
-    "description": "A computer program developed by DeepMind to play the board game Go.DeepSpeech is an open-source speech-to-text engine developed by Mozilla. It utilizes deep learning techniques, specifically recurrent neural networks (RNNs), to transcribe spoken language into text. DeepSpeech is trained on large datasets of human speech and text transcriptions, enabling it to accurately recognize and transcribe spoken words. It has applications in various fields, including voice-controlled interfaces, transcription services, and accessibility tools.",
+    "description": "A computer program developed by DeepMind to play the board game Go.",
     "Link": "https://github.com/mozilla/DeepSpeech",
     "provider": "DeepMind",
     "useCases": ["Game playing", "Optimization"]
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "YOLO",
     "category": "Computer Vision",
-    "description": "You Only Look Once (YOLO) is an object detection system.YOLO (You Only Look Once) is a popular object detection system developed by Joseph Redmon and Ali Farhadi. It's known for its speed and accuracy in real-time object detection tasks. Unlike traditional object detection algorithms that require multiple passes over an image, YOLO processes the entire image in a single forward pass of a neural network, enabling it to detect objects quickly. YOLO divides the input image into a grid and predicts bounding boxes and class probabilities for each grid cell simultaneously. ",
+    "description": "You Only Look Once (YOLO) is an object detection system.YOLO (You Only Look Once) is a popular object detection system developed by Joseph Redmon and Ali Farhadi.",
     "provider": "Joseph Redmon, Ali Farhadi",
     "Link": "https://pjreddie.com/yolo/",
     "useCases": ["Object detection", "Real-time processing"]
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "LSTM",
     "category": "Natural Language Processing",
-    "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture.LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) architecture designed to capture long-term dependencies in sequential data. It addresses the vanishing gradient problem by maintaining a cell state and utilizing gating mechanisms to control information flow. LSTMs are widely used in tasks such as natural language processing, speech recognition, and time series analysis due to their ability to model complex temporal patterns effectively.",
+    "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture.",
     "provider": "Sepp Hochreiter, Jürgen Schmidhuber",
     "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
     "useCases": ["Text generation", "Language modeling"]
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "VGG16",
     "category": "Computer Vision",
-    "description": "VGG16 is a convolutional neural network model that won the ImageNet competition.VGG16 is a convolutional neural network (CNN) architecture developed by the Visual Geometry Group (VGG) at the University of Oxford. It consists of 16 layers, primarily using 3x3 convolutional filters, and is widely known for its simplicity and effectiveness in image classification tasks. For more information, you can refer to the original research paper titled ,Very Deep Convolutional Networks for Large-Scale Image Recognition by Karen Simonyan and Andrew Zisserman.",
+    "description": "VGG16 is a convolutional neural network model that won the ImageNet competition.",
     "provider": "Visual Geometry Group (VGG)",
     "Link": "https://builtin.com/machine-learning/vgg16#:~:text=VGG16%20is%20a%20convolutional%20neural%20network%20model%20that's%20used%20for,the%20best%20vision%20model%20architectures.",
     "useCases": ["Image classification", "Feature extraction"]
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Tacotron",
     "category": "Speech Synthesis",
-    "description": "Tacotron is a sequence-to-sequence model for generating speech waveform from text.Tacotron is a sequence-to-sequence model architecture for speech synthesis from text inputs. It comprises two stages: the first stage generates mel spectrograms from input text using an encoder-decoder architecture, and the second stage synthesizes speech waveforms from these spectrograms using a neural vocoder. Developed for end-to-end speech synthesis, Tacotron is renowned for producing natural-sounding speech with high quality and prosody. .",
+    "description": "Tacotron is a sequence-to-sequence model for generating speech waveform from text.",
     "provider": "Google",
      "Link": "https://paperswithcode.com/method/tacotron#:~:text=Tacotron%20is%20an%20end%2Dto,and%20a%20post%2Dprocessing%20net.",
     "useCases": ["Text-to-speech synthesis", "Voice generation"]
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "MobileNet",
     "category": "Computer Vision",
-    "description": "MobileNet is a lightweight deep learning model designed for mobile and embedded vision applications.WaveNet is a deep generative model developed by DeepMind for generating raw audio waveforms. Unlike traditional speech synthesis methods, which rely on concatenative or parametric approaches, WaveNet generates speech samples one sample at a time, directly from the waveform. This approach allows WaveNet to capture detailed nuances of natural speech, resulting in high-quality and natural-sounding synthetic speech. WaveNet operates by autoregressively predicting the next sample in the waveform conditioned on previous samples, using dilated convolutional neural networks. It has been widely used in applications such as text-to-speech synthesis, music generation, and audio generation in various domains. For more details, refer to the original research paper titled ,WaveNet: A Generative Model for Raw Audio by van den Oord et al.",
+    "description": "MobileNet is a lightweight deep learning model designed for mobile and embedded vision applications.",
     "provider": "Google",
     "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
     "useCases": ["Image classification", "Object detection"]
