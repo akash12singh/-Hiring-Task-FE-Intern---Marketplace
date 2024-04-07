@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "name": "GPT-3",
@@ -118,4 +118,4 @@
     "description": "U-Net is a convolutional neural network architecture for biomedical image segmentation.",
     "provider": "Olaf Ronneberger, Philipp Fischer, Thomas Brox"
   }
-]
+}
