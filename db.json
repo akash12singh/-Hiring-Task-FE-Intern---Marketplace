@@ -39,7 +39,7 @@
     "id": 5,
     "name": "AlphaGo",
     "category": "Reinforcement Learning",
-    "description": "A computer program developed by DeepMind to play the board game Go.AlphaGo combines deep neural networks with reinforcement learning techniques to learn from data and improve its gameplay over time. It uses a combination of supervised learning from human expert games and reinforcement learning from self-play to continuously refine its strategy. AlphaGo's success demonstrated the power of deep learning and reinforcement learning in tackling complex problems and marked a significant advancement in AI",
+    "description": "A computer program developed by DeepMind to play the board game Go.AlphaGo combines deep neural networks with reinforcement learning techniques to learn from data and improve its gameplay over time. It uses a combination of supervised learning from human expert games and reinforcement learning from self-play to continuously refine its strategy.",
     "Link": "https://deepmind.google/technologies/alphago/",
     "provider": "DeepMind",
     "useCases": ["Game playing", "Optimization"]
@@ -120,7 +120,7 @@
     "id": 14,
     "name": "Inception",
     "category": "Computer Vision",
-    "description": "Inception, also known as GoogLeNet, is a deep convolutional neural network (CNN) architecture developed by researchers at Google. It was introduced by Christian Szegedy et al. in 2014. Inception is characterized by its deep and complex architecture featuring multiple layers with various kernel sizes, including 1x1, 3x3, and 5x5 convolutions.The key innovation of the Inception architecture is the use of inception modules, which allow the network to efficiently capture features at different spatial scales by using convolutions of different sizes within the same layer.",
+    "description": "Inception, also known as GoogLeNet, is a deep convolutional neural network (CNN) architecture developed by researchers at Google. It was introduced by Christian Szegedy et al. in 2014. Inception is characterized by its deep and complex architecture featuring multiple layers with various kernel sizes, including 1x1, 3x3, and 5x5 convolutions.The key innovation of the Inception architecture is the use of inception modules.",
     "provider": "Google",
     "Link": "https://cloud.google.com/tpu/docs/inception-v3-advanced",
     "useCases": ["Image classification", "Object detection"]
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "U-Net",
     "category": "Medical Imaging",
-    "description": "U-Net is a convolutional neural network (CNN) architecture designed for biomedical image segmentation tasks, particularly for segmenting cell structures and other anatomical features in medical images. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in 2015.The U-Net architecture is characterized by a symmetric encoder-decoder structure. The encoder pathway captures contextual information from the input image through a series of convolutional and pooling layers, while the decoder pathway gradually upsamples this information to generate the final segmentation map.",
+    "description": "U-Net is a convolutional neural network (CNN) architecture designed for biomedical image segmentation tasks, particularly for segmenting cell structures and other anatomical features in medical images. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in 2015.The U-Net architecture is characterized by a symmetric encoder-decoder structure. The encoder pathway captures contextual information from the input image through a series of convolutional and pooling layers.",
     "provider": "Olaf Ronneberger, Philipp Fischer, Thomas Brox",
     "Link": "https://paperswithcode.com/method/u-net",
     "useCases": ["Medical image segmentation", "Biomedical image analysis"]
