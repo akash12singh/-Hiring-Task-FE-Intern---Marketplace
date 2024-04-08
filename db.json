@@ -31,7 +31,7 @@
     "id": 4,
     "name": "DeepSpeech",
     "category": "Speech Recognition",
-    "description": " image se",
+    "description": " DeepSpeech is an open-source speech-to-text engine developed by Mozilla. It utilizes deep learning techniques, specifically recurrent neural networks (RNNs), to transcribe spoken language into text. DeepSpeech is trained on large datasets of human speech and text transcriptions, enabling it to accurately recognize and transcribe spoken words.",
     "provider": "Mozilla",
     "useCases": ["Speech transcription", "Voice-controlled interfaces"]
   },
