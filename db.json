@@ -111,7 +111,7 @@
     "id": 13,
     "name": "AlexNet",
     "category": "Computer Vision",
-    "description": "AlexNet is a seminal convolutional neural network (CNN) architecture that played a crucial role in advancing the field of computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, AlexNet won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming previous approaches.AlexNet consists of eight layers, including five convolutional layers followed by max-pooling layers and three fully connected layers.",
+    "description": "AlexNet is a seminal convolutional neural network (CNN) architecture that played a crucial role in advancing the field of computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, AlexNet won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming previous approaches.",
     "provider": "Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton",
     "Link": "https://en.wikipedia.org/wiki/AlexNet",
     "useCases": ["Image classification", "Feature extraction"]
@@ -129,7 +129,7 @@
     "id": 15,
     "name": "FastText",
     "category": "Natural Language Processing",
-    "description": "FastText is an extension of the Word2Vec algorithm developed by Facebook's AI Research (FAIR) lab. It incorporates subword information, allowing it to handle out-of-vocabulary words more effectively. FastText supports efficient training with hierarchical softmax and negative sampling and provides pre-trained embeddings for many languages. Widely used in NLP tasks, FastText embeddings are known for their effectiveness, especially in scenarios with limited training data or out-of-vocabulary words.",
+    "description": "FastText is an extension of the Word2Vec algorithm developed by Facebook's AI Research (FAIR) lab. It incorporates subword information, allowing it to handle out-of-vocabulary words more effectively. FastText supports efficient training with hierarchical softmax and negative sampling and provides pre-trained embeddings for many languages.",
     "provider": "Facebook AI Research (FAIR)",
     "Link": "https://fasttext.cc/",
     "useCases": ["Text classification", "Word embeddings"]
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "U-Net",
     "category": "Medical Imaging",
-    "description": "U-Net is a convolutional neural network (CNN) architecture designed for biomedical image segmentation tasks, particularly for segmenting cell structures and other anatomical features in medical images. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in 2015.The U-Net architecture is characterized by a symmetric encoder-decoder structure. The encoder pathway captures contextual information from the input image through a series of convolutional and pooling layers.",
+    "description": "U-Net is a convolutional neural network (CNN) architecture designed for biomedical image segmentation tasks, particularly for segmenting cell structures and other anatomical features in medical images. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in 2015.The U-Net architecture is characterized by a symmetric encoder-decoder structure.",
     "provider": "Olaf Ronneberger, Philipp Fischer, Thomas Brox",
     "Link": "https://paperswithcode.com/method/u-net",
     "useCases": ["Medical image segmentation", "Biomedical image analysis"]
