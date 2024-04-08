@@ -4,7 +4,7 @@
     "id": 1,
     "name": "GPT-3",
     "category": "Natural Language Processing",
-    "description": "A state-of-the-art language model developed by OpenAI.",
+    "description": "A state-of-the-art language model developed by OpenAI.GPT-3 is built on the Transformer architecture, which utilizes self-attention mechanisms to effectively capture contextual information from input sequences. It is pre-trained on a massive dataset consisting of diverse text sources from the internet, allowing it to learn rich representations of language.",
     "provider": "OpenAI",
     "Link": "https://openai.com/product",
     "useCases": ["Text generation", "Language translation"]
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "BERT",
     "category": "Natural Language Processing",
-    "description": "A transformer-based language representation model developed by Google.",
+    "description": "A transformer-based language representation model developed by Google.BERT has been pre-trained on vast amounts of text data and can be fine-tuned for various natural language processing tasks such as sentiment analysis, text classification, question answering, and named entity recognition. It has achieved state-of-the-art results on multiple benchmarks and is widely used in both research and industry for a wide range of NLP applications.",
     "provider": "Google",
     "Link": "https://github.com/google-research/bert",
     "useCases": ["Sentiment analysis", "Question answering"]
@@ -111,45 +111,45 @@
     "id": 13,
     "name": "AlexNet",
     "category": "Computer Vision",
-    "description": "AlexNet is one of the pioneering deep convolutional neural network architectures.",
+    "description": "AlexNet is a seminal convolutional neural network (CNN) architecture that played a crucial role in advancing the field of computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, AlexNet won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming previous approaches.AlexNet consists of eight layers, including five convolutional layers followed by max-pooling layers and three fully connected layers.",
     "provider": "Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://en.wikipedia.org/wiki/AlexNet",
     "useCases": ["Image classification", "Feature extraction"]
   },
   {
     "id": 14,
     "name": "Inception",
     "category": "Computer Vision",
-    "description": "Inception is a deep convolutional neural network architecture developed by Google.",
+    "description": "Inception, also known as GoogLeNet, is a deep convolutional neural network (CNN) architecture developed by researchers at Google. It was introduced by Christian Szegedy et al. in 2014. Inception is characterized by its deep and complex architecture featuring multiple layers with various kernel sizes, including 1x1, 3x3, and 5x5 convolutions.The key innovation of the Inception architecture is the use of inception modules, which allow the network to efficiently capture features at different spatial scales by using convolutions of different sizes within the same layer.",
     "provider": "Google",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://cloud.google.com/tpu/docs/inception-v3-advanced",
     "useCases": ["Image classification", "Object detection"]
   },
   {
     "id": 15,
     "name": "FastText",
     "category": "Natural Language Processing",
-    "description": "FastText is a library for efficient learning of word representations and sentence classification.",
+    "description": "FastText is an extension of the Word2Vec algorithm developed by Facebook's AI Research (FAIR) lab. It incorporates subword information, allowing it to handle out-of-vocabulary words more effectively. FastText supports efficient training with hierarchical softmax and negative sampling and provides pre-trained embeddings for many languages. Widely used in NLP tasks, FastText embeddings are known for their effectiveness, especially in scenarios with limited training data or out-of-vocabulary words.",
     "provider": "Facebook AI Research (FAIR)",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://fasttext.cc/",
     "useCases": ["Text classification", "Word embeddings"]
   },
   {
     "id": 16,
     "name": "Word2Vec",
     "category": "Natural Language Processing",
-    "description": "Word2Vec is a shallow, two-layer neural network model for learning word embeddings.",
+    "description": "Word2Vec is a popular algorithm used for generating word embeddings, which are dense vector representations of words in a continuous vector space. These embeddings capture semantic and syntactic similarities between words based on their context in a given corpus of text. Word2Vec was introduced by Tomas Mikolov et al. from Google in 2013.The Word2Vec algorithm typically comes in two variants: Continuous Bag of Words (CBOW) and Skip-gram.",
     "provider": "Google",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://en.wikipedia.org/wiki/Word2vec",
     "useCases": ["Word embeddings", "Text similarity"]
   },
   {
     "id": 17,
     "name": "U-Net",
     "category": "Medical Imaging",
-    "description": "U-Net is a convolutional neural network architecture for biomedical image segmentation.",
+    "description": "U-Net is a convolutional neural network (CNN) architecture designed for biomedical image segmentation tasks, particularly for segmenting cell structures and other anatomical features in medical images. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in 2015.The U-Net architecture is characterized by a symmetric encoder-decoder structure. The encoder pathway captures contextual information from the input image through a series of convolutional and pooling layers, while the decoder pathway gradually upsamples this information to generate the final segmentation map.",
     "provider": "Olaf Ronneberger, Philipp Fischer, Thomas Brox",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://paperswithcode.com/method/u-net",
     "useCases": ["Medical image segmentation", "Biomedical image analysis"]
   }
 ]
