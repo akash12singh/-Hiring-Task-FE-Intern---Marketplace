@@ -138,7 +138,7 @@
     "id": 16,
     "name": "Word2Vec",
     "category": "Natural Language Processing",
-    "description": "Word2Vec is a popular algorithm used for generating word embeddings, which are dense vector representations of words in a continuous vector space. These embeddings capture semantic and syntactic similarities between words based on their context in a given corpus of text. Word2Vec was introduced by Tomas Mikolov et al. from Google in 2013.The Word2Vec algorithm typically comes in two variants: Continuous Bag of Words (CBOW) and Skip-gram.",
+    "description": "Word2Vec is a popular algorithm used for generating word embeddings, which are dense vector representations of words in a continuous vector space. These embeddings capture semantic and syntactic similarities between words based on their context in a given corpus of text. Word2Vec was introduced by Tomas Mikolov et al. from Google in 2013.",
     "provider": "Google",
     "Link": "https://en.wikipedia.org/wiki/Word2vec",
     "useCases": ["Word embeddings", "Text similarity"]
