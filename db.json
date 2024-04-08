@@ -39,8 +39,8 @@
     "id": 5,
     "name": "AlphaGo",
     "category": "Reinforcement Learning",
-    "description": "A computer program developed by DeepMind to play the board game Go.",
-    "Link": "https://github.com/mozilla/DeepSpeech",
+    "description": "A computer program developed by DeepMind to play the board game Go.AlphaGo combines deep neural networks with reinforcement learning techniques to learn from data and improve its gameplay over time. It uses a combination of supervised learning from human expert games and reinforcement learning from self-play to continuously refine its strategy. AlphaGo's success demonstrated the power of deep learning and reinforcement learning in tackling complex problems and marked a significant advancement in AI",
+    "Link": "https://deepmind.google/technologies/alphago/",
     "provider": "DeepMind",
     "useCases": ["Game playing", "Optimization"]
   },
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "LSTM",
     "category": "Natural Language Processing",
-    "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture.",
+    "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture.YOLO divides the input image into a grid and predicts bounding boxes and class probabilities for each grid cell simultaneously. This approach makes YOLO well-suited for applications requiring real-time object detection, such as autonomous vehicles, surveillance systems, and augmented reality.",
     "provider": "Sepp Hochreiter, Jürgen Schmidhuber",
     "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
     "useCases": ["Text generation", "Language modeling"]
@@ -84,27 +84,27 @@
     "id": 10,
     "name": "WaveNet",
     "category": "Speech Synthesis",
-    "description": "WaveNet is a deep generative model of raw audio waveforms.",
+    "description": "WaveNet is a deep generative model developed by DeepMind for generating raw audio waveforms. Unlike traditional speech synthesis methods, which rely on concatenative or parametric approaches, WaveNet generates speech samples one sample at a time, directly from the waveform. This approach allows WaveNet to capture detailed nuances of natural speech, resulting in high-quality and natural-sounding synthetic speech.",
     "provider": "DeepMind",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://deepmind.google/discover/blog/wavenet-a-generative-model-for-raw-audio/",
     "useCases": ["Text-to-speech synthesis", "Speech synthesis"]
   },
   {
     "id": 11,
     "name": "MobileNet",
     "category": "Computer Vision",
-    "description": "MobileNet is a lightweight deep learning model designed for mobile and embedded vision applications.",
+    "description": "MobileNet is a lightweight deep learning model architecture designed for efficient inference on mobile and embedded devices. It was developed by researchers at Google. MobileNet is specifically optimized for low-latency, low-power consumption, and small model size, making it suitable for applications requiring real-time performance on resource-constrained devices.",
     "provider": "Google",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://builtin.com/machine-learning/mobilenet#:~:text=MobileNet%20is%20a%20computer%20vision,first%20mobile%20computer%20vision%20model.",
     "useCases": ["Image classification", "Object detection"]
   },
   {
     "id": 12,
     "name": "VGG19",
     "category": "Computer Vision",
-    "description": "VGG19 is a convolutional neural network model that won the ImageNet competition.",
+    "description": "VGG19 is a convolutional neural network (CNN) architecture that is an extension of the VGG16 model. It was developed by the Visual Geometry Group (VGG) at the University of Oxford. Similar to VGG16, VGG19 consists of 19 layers, including convolutional layers, max-pooling layers, and fully connected layers.",
     "provider": "Visual Geometry Group (VGG)",
-    "Link": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "Link": "https://keras.io/api/applications/vgg/",
     "useCases": ["Image classification", "Feature extraction"]
   },
   {
